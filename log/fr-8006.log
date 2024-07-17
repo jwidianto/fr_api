@@ -1,0 +1,226 @@
+[2024-07-17 19:09:49,430.430] INFO [140704711110912] - Uvicorn running on http://0.0.0.0:8006 (Press CTRL+C to quit)
+[2024-07-17 19:09:49,430.430] INFO [140704711110912] - Started parent process [5697]
+[2024-07-17 19:10:04,587.587] INFO [140704711110912] - Waiting for child process [5699]
+[2024-07-17 19:10:04,588.588] INFO [140704711110912] - Child process [5699] died
+[2024-07-17 19:10:04,591.591] INFO [140704711110912] - Waiting for child process [5700]
+[2024-07-17 19:10:04,592.592] INFO [140704711110912] - Child process [5700] died
+[2024-07-17 19:10:05,098.098] INFO [140704711110912] - Waiting for child process [5700]
+[2024-07-17 19:10:05,099.099] INFO [140704711110912] - Child process [5700] died
+[2024-07-17 19:10:06,644.644] INFO [140704711110912] - Received SIGINT, exiting.
+[2024-07-17 19:10:06,645.645] INFO [140704711110912] - Terminated child process [5714]
+[2024-07-17 19:10:06,645.645] INFO [140704711110912] - Terminated child process [5715]
+[2024-07-17 19:10:06,645.645] INFO [140704711110912] - Waiting for child process [5714]
+[2024-07-17 19:10:16,826.826] INFO [140704711110912] - Waiting for child process [5715]
+[2024-07-17 19:10:17,170.170] INFO [140704711110912] - Stopping parent process [5697]
+[2024-07-17 19:18:10,801.801] INFO [140704711110912] - Uvicorn running on http://0.0.0.0:8006 (Press CTRL+C to quit)
+[2024-07-17 19:18:10,801.801] INFO [140704711110912] - Started parent process [6090]
+[2024-07-17 19:18:27,408.408] INFO [140704711110912] - Waiting for child process [6106]
+[2024-07-17 19:18:27,408.408] INFO [140704711110912] - Child process [6106] died
+[2024-07-17 19:18:27,411.411] INFO [140704711110912] - Waiting for child process [6107]
+[2024-07-17 19:18:27,411.411] INFO [140704711110912] - Child process [6107] died
+[2024-07-17 19:18:27,919.919] INFO [140704711110912] - Waiting for child process [6107]
+[2024-07-17 19:18:27,919.919] INFO [140704711110912] - Child process [6107] died
+[2024-07-17 19:18:44,770.770] INFO [140704711110912] - Waiting for child process [6169]
+[2024-07-17 19:18:44,770.770] INFO [140704711110912] - Child process [6169] died
+[2024-07-17 19:18:44,773.773] INFO [140704711110912] - Waiting for child process [6170]
+[2024-07-17 19:18:44,774.774] INFO [140704711110912] - Child process [6170] died
+[2024-07-17 19:18:45,282.282] INFO [140704711110912] - Received SIGINT, exiting.
+[2024-07-17 19:18:45,282.282] INFO [140704711110912] - Terminated child process [6180]
+[2024-07-17 19:18:45,283.283] INFO [140704711110912] - Waiting for child process [6170]
+[2024-07-17 19:18:45,283.283] INFO [140704711110912] - Waiting for child process [6180]
+[2024-07-17 19:18:56,416.416] INFO [140704711110912] - Stopping parent process [6090]
+[2024-07-17 19:32:48,806.806] INFO [140704711110912] - Uvicorn running on http://0.0.0.0:8006 (Press CTRL+C to quit)
+[2024-07-17 19:32:48,807.807] INFO [140704711110912] - Started parent process [6466]
+[2024-07-17 19:32:58,624.624] INFO [140704711110912] - Waiting for child process [6468]
+[2024-07-17 19:32:58,667.667] INFO [140704711110912] - Child process [6468] died
+[2024-07-17 19:33:13,779.779] INFO [140704711110912] - Waiting for child process [6469]
+[2024-07-17 19:33:13,780.780] INFO [140704711110912] - Child process [6469] died
+[2024-07-17 19:33:20,140.140] INFO [140704711110912] - Waiting for child process [6478]
+[2024-07-17 19:33:20,140.140] INFO [140704711110912] - Child process [6478] died
+[2024-07-17 19:33:32,951.951] INFO [140704711110912] - Waiting for child process [6485]
+[2024-07-17 19:33:32,952.952] INFO [140704711110912] - Child process [6485] died
+[2024-07-17 19:33:32,955.955] INFO [140704711110912] - Waiting for child process [6490]
+[2024-07-17 19:33:32,957.957] INFO [140704711110912] - Child process [6490] died
+[2024-07-17 19:33:33,464.464] INFO [140704711110912] - Waiting for child process [6490]
+[2024-07-17 19:33:33,464.464] INFO [140704711110912] - Child process [6490] died
+[2024-07-17 19:33:52,892.892] INFO [140704711110912] - Waiting for child process [6496]
+[2024-07-17 19:33:52,893.893] INFO [140704711110912] - Child process [6496] died
+[2024-07-17 19:33:52,896.896] INFO [140704711110912] - Waiting for child process [6497]
+[2024-07-17 19:33:52,897.897] INFO [140704711110912] - Child process [6497] died
+[2024-07-17 19:33:53,405.405] INFO [140704711110912] - Waiting for child process [6497]
+[2024-07-17 19:33:53,405.405] INFO [140704711110912] - Child process [6497] died
+[2024-07-17 19:34:02,289.289] INFO [140704711110912] - Received SIGINT, exiting.
+[2024-07-17 19:34:02,289.289] INFO [140704711110912] - Terminated child process [6508]
+[2024-07-17 19:34:02,290.290] INFO [140704711110912] - Terminated child process [6509]
+[2024-07-17 19:34:02,290.290] INFO [140704711110912] - Waiting for child process [6508]
+[2024-07-17 19:34:09,299.299] INFO [140704711110912] - Waiting for child process [6509]
+[2024-07-17 19:34:09,429.429] INFO [140704711110912] - Stopping parent process [6466]
+[2024-07-17 20:42:34,069.069] INFO [140704721305856] - Uvicorn running on http://0.0.0.0:8006 (Press CTRL+C to quit)
+[2024-07-17 20:42:34,070.070] INFO [140704721305856] - Started parent process [1522]
+[2024-07-17 20:43:03,002.002] INFO [140704721305856] - Waiting for child process [1524]
+[2024-07-17 20:43:03,003.003] INFO [140704721305856] - Child process [1524] died
+[2024-07-17 20:43:03,005.005] INFO [140704721305856] - Waiting for child process [1525]
+[2024-07-17 20:43:03,006.006] INFO [140704721305856] - Child process [1525] died
+[2024-07-17 20:43:03,511.511] INFO [140704721305856] - Waiting for child process [1525]
+[2024-07-17 20:43:03,511.511] INFO [140704721305856] - Child process [1525] died
+[2024-07-17 20:43:10,045.045] INFO [140704721305856] - Received SIGINT, exiting.
+[2024-07-17 20:43:10,045.045] INFO [140704721305856] - Terminated child process [1560]
+[2024-07-17 20:43:10,045.045] INFO [140704721305856] - Terminated child process [1563]
+[2024-07-17 20:43:10,046.046] INFO [140704721305856] - Waiting for child process [1560]
+[2024-07-17 20:43:26,191.191] INFO [140704721305856] - Waiting for child process [1563]
+[2024-07-17 20:43:26,594.594] INFO [140704721305856] - Stopping parent process [1522]
+[2024-07-17 20:50:18,365.365] INFO [140704721305856] - Uvicorn running on http://0.0.0.0:8006 (Press CTRL+C to quit)
+[2024-07-17 20:50:18,365.365] INFO [140704721305856] - Started parent process [1929]
+[2024-07-17 20:50:41,628.628] INFO [140704721305856] - Waiting for child process [1931]
+[2024-07-17 20:50:41,629.629] INFO [140704721305856] - Child process [1931] died
+[2024-07-17 20:50:41,633.633] INFO [140704721305856] - Waiting for child process [1932]
+[2024-07-17 20:50:41,635.635] INFO [140704721305856] - Child process [1932] died
+[2024-07-17 20:50:42,142.142] INFO [140704721305856] - Waiting for child process [1932]
+[2024-07-17 20:50:42,143.143] INFO [140704721305856] - Child process [1932] died
+[2024-07-17 20:50:46,727.727] INFO [140704721305856] - Received SIGINT, exiting.
+[2024-07-17 20:50:46,727.727] INFO [140704721305856] - Terminated child process [1947]
+[2024-07-17 20:50:46,727.727] INFO [140704721305856] - Terminated child process [1950]
+[2024-07-17 20:50:46,727.727] INFO [140704721305856] - Waiting for child process [1947]
+[2024-07-17 20:51:01,024.024] INFO [140704721305856] - Waiting for child process [1950]
+[2024-07-17 20:51:01,595.595] INFO [140704721305856] - Stopping parent process [1929]
+[2024-07-17 20:55:01,810.810] INFO [140704721305856] - Uvicorn running on http://0.0.0.0:8006 (Press CTRL+C to quit)
+[2024-07-17 20:55:01,813.813] INFO [140704721305856] - Started parent process [2224]
+[2024-07-17 20:55:09,662.662] INFO [140704721305856] - Started server process [2227]
+[2024-07-17 20:55:09,662.662] INFO [140704721305856] - Waiting for application startup.
+[2024-07-17 20:55:09,662.662] INFO [140704721305856] - Started server process [2226]
+[2024-07-17 20:55:09,662.662] INFO [140704721305856] - Waiting for application startup.
+[2024-07-17 20:55:09,662.662] INFO [140704721305856] - Application startup complete.
+[2024-07-17 20:55:09,663.663] INFO [140704721305856] - Application startup complete.
+[2024-07-17 20:58:00,532.532] INFO [140704721305856] - 127.0.0.1:49590 - "POST /verify64 HTTP/1.1" 500
+[2024-07-17 21:05:11,905.905] INFO [140704721305856] - Shutting down
+[2024-07-17 21:05:11,905.905] INFO [140704721305856] - Shutting down
+[2024-07-17 21:05:12,007.007] INFO [140704721305856] - Waiting for application shutdown.
+[2024-07-17 21:05:12,007.007] INFO [140704721305856] - Waiting for application shutdown.
+[2024-07-17 21:05:12,007.007] INFO [140704721305856] - Application shutdown complete.
+[2024-07-17 21:05:12,007.007] INFO [140704721305856] - Application shutdown complete.
+[2024-07-17 21:05:12,008.008] INFO [140704721305856] - Finished server process [2227]
+[2024-07-17 21:05:12,008.008] INFO [140704721305856] - Finished server process [2226]
+[2024-07-17 21:05:12,112.112] INFO [140704721305856] - Received SIGINT, exiting.
+[2024-07-17 21:05:12,112.112] INFO [140704721305856] - Terminated child process [2226]
+[2024-07-17 21:05:12,112.112] INFO [140704721305856] - Terminated child process [2227]
+[2024-07-17 21:05:12,112.112] INFO [140704721305856] - Waiting for child process [2226]
+[2024-07-17 21:05:12,141.141] INFO [140704721305856] - Waiting for child process [2227]
+[2024-07-17 21:05:12,143.143] INFO [140704721305856] - Stopping parent process [2224]
+[2024-07-17 21:10:01,728.728] INFO [140704721305856] - Uvicorn running on http://0.0.0.0:8006 (Press CTRL+C to quit)
+[2024-07-17 21:10:01,728.728] INFO [140704721305856] - Started parent process [2624]
+[2024-07-17 21:10:12,332.332] INFO [140704721305856] - Started server process [2627]
+[2024-07-17 21:10:12,332.332] INFO [140704721305856] - Started server process [2626]
+[2024-07-17 21:10:12,332.332] INFO [140704721305856] - Waiting for application startup.
+[2024-07-17 21:10:12,332.332] INFO [140704721305856] - Waiting for application startup.
+[2024-07-17 21:10:12,333.333] INFO [140704721305856] - Application startup complete.
+[2024-07-17 21:10:12,333.333] INFO [140704721305856] - Application startup complete.
+[2024-07-17 21:10:28,122.122] INFO [140704721305856] - 127.0.0.1:52187 - "POST /verify64 HTTP/1.1" 500
+[2024-07-17 21:18:46,236.236] INFO [140704721305856] - 127.0.0.1:64077 - "POST /verify64 HTTP/1.1" 500
+[2024-07-17 21:21:05,182.182] INFO [140704721305856] - Shutting down
+[2024-07-17 21:21:05,205.205] INFO [140704721305856] - Shutting down
+[2024-07-17 21:21:05,284.284] INFO [140704721305856] - Waiting for application shutdown.
+[2024-07-17 21:21:05,285.285] INFO [140704721305856] - Application shutdown complete.
+[2024-07-17 21:21:05,285.285] INFO [140704721305856] - Finished server process [2627]
+[2024-07-17 21:21:05,306.306] INFO [140704721305856] - Waiting for application shutdown.
+[2024-07-17 21:21:05,306.306] INFO [140704721305856] - Application shutdown complete.
+[2024-07-17 21:21:05,306.306] INFO [140704721305856] - Finished server process [2626]
+[2024-07-17 21:21:05,557.557] INFO [140704721305856] - Received SIGINT, exiting.
+[2024-07-17 21:21:05,558.558] INFO [140704721305856] - Terminated child process [2626]
+[2024-07-17 21:21:05,558.558] INFO [140704721305856] - Terminated child process [2627]
+[2024-07-17 21:21:05,558.558] INFO [140704721305856] - Waiting for child process [2626]
+[2024-07-17 21:21:05,596.596] INFO [140704721305856] - Waiting for child process [2627]
+[2024-07-17 21:21:05,601.601] INFO [140704721305856] - Stopping parent process [2624]
+[2024-07-17 21:50:52,823.823] INFO [140704721305856] - Uvicorn running on http://0.0.0.0:8006 (Press CTRL+C to quit)
+[2024-07-17 21:50:52,825.825] INFO [140704721305856] - Started parent process [3939]
+[2024-07-17 21:51:13,095.095] INFO [140704721305856] - Received SIGINT, exiting.
+[2024-07-17 21:51:13,114.114] INFO [140704721305856] - Terminated child process [3941]
+[2024-07-17 21:51:13,115.115] INFO [140704721305856] - Terminated child process [3942]
+[2024-07-17 21:51:13,115.115] INFO [140704721305856] - Waiting for child process [3941]
+[2024-07-17 21:51:17,708.708] INFO [140704721305856] - Started server process [3942]
+[2024-07-17 21:51:17,710.710] INFO [140704721305856] - Waiting for application startup.
+[2024-07-17 21:51:17,709.709] INFO [140704721305856] - Started server process [3941]
+[2024-07-17 21:51:17,710.710] INFO [140704721305856] - Waiting for application startup.
+[2024-07-17 21:51:17,711.711] INFO [140704721305856] - Application startup complete.
+[2024-07-17 21:51:17,711.711] INFO [140704721305856] - Application startup complete.
+[2024-07-17 21:51:17,926.926] ERROR [140704721305856] - Traceback (most recent call last):
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "uvloop/loop.pyx", line 1511, in uvloop.loop.Loop.run_until_complete
+  File "uvloop/loop.pyx", line 1504, in uvloop.loop.Loop.run_until_complete
+  File "uvloop/loop.pyx", line 1377, in uvloop.loop.Loop.run_forever
+  File "uvloop/loop.pyx", line 555, in uvloop.loop.Loop._run
+  File "uvloop/loop.pyx", line 474, in uvloop.loop.Loop._on_idle
+  File "uvloop/cbhandles.pyx", line 83, in uvloop.loop.Handle._run
+  File "uvloop/cbhandles.pyx", line 63, in uvloop.loop.Handle._run
+  File "/Users/jay/Desktop/fr_api/fr_apienv/lib/python3.9/site-packages/uvicorn/server.py", line 69, in serve
+    await self._serve(sockets)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/contextlib.py", line 124, in __exit__
+    next(self.gen)
+  File "/Users/jay/Desktop/fr_api/fr_apienv/lib/python3.9/site-packages/uvicorn/server.py", line 328, in capture_signals
+    signal.raise_signal(captured_signal)
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/jay/Desktop/fr_api/fr_apienv/lib/python3.9/site-packages/starlette/routing.py", line 741, in lifespan
+    await receive()
+  File "/Users/jay/Desktop/fr_api/fr_apienv/lib/python3.9/site-packages/uvicorn/lifespan/on.py", line 137, in receive
+    return await self.receive_queue.get()
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/asyncio/queues.py", line 166, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+[2024-07-17 21:51:17,926.926] ERROR [140704721305856] - Traceback (most recent call last):
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "uvloop/loop.pyx", line 1511, in uvloop.loop.Loop.run_until_complete
+  File "uvloop/loop.pyx", line 1504, in uvloop.loop.Loop.run_until_complete
+  File "uvloop/loop.pyx", line 1377, in uvloop.loop.Loop.run_forever
+  File "uvloop/loop.pyx", line 555, in uvloop.loop.Loop._run
+  File "uvloop/loop.pyx", line 474, in uvloop.loop.Loop._on_idle
+  File "uvloop/cbhandles.pyx", line 83, in uvloop.loop.Handle._run
+  File "uvloop/cbhandles.pyx", line 63, in uvloop.loop.Handle._run
+  File "/Users/jay/Desktop/fr_api/fr_apienv/lib/python3.9/site-packages/uvicorn/server.py", line 69, in serve
+    await self._serve(sockets)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/contextlib.py", line 124, in __exit__
+    next(self.gen)
+  File "/Users/jay/Desktop/fr_api/fr_apienv/lib/python3.9/site-packages/uvicorn/server.py", line 328, in capture_signals
+    signal.raise_signal(captured_signal)
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/jay/Desktop/fr_api/fr_apienv/lib/python3.9/site-packages/starlette/routing.py", line 741, in lifespan
+    await receive()
+  File "/Users/jay/Desktop/fr_api/fr_apienv/lib/python3.9/site-packages/uvicorn/lifespan/on.py", line 137, in receive
+    return await self.receive_queue.get()
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/asyncio/queues.py", line 166, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+[2024-07-17 21:51:18,667.667] INFO [140704721305856] - Waiting for child process [3942]
+[2024-07-17 21:51:18,668.668] INFO [140704721305856] - Stopping parent process [3939]
+[2024-07-17 23:03:02,503.503] INFO [140704721305856] - Uvicorn running on http://0.0.0.0:8006 (Press CTRL+C to quit)
+[2024-07-17 23:03:02,504.504] INFO [140704721305856] - Started parent process [71738]
+[2024-07-17 23:03:15,285.285] INFO [140704721305856] - Started server process [71741]
+[2024-07-17 23:03:15,287.287] INFO [140704721305856] - Waiting for application startup.
+[2024-07-17 23:03:15,288.288] INFO [140704721305856] - Application startup complete.
+[2024-07-17 23:03:15,287.287] INFO [140704721305856] - Started server process [71740]
+[2024-07-17 23:03:15,290.290] INFO [140704721305856] - Waiting for application startup.
+[2024-07-17 23:03:15,292.292] INFO [140704721305856] - Application startup complete.
+[2024-07-17 23:03:29,077.077] INFO [140704721305856] - Shutting down
+[2024-07-17 23:03:29,077.077] INFO [140704721305856] - Shutting down
+[2024-07-17 23:03:29,180.180] INFO [140704721305856] - Waiting for application shutdown.
+[2024-07-17 23:03:29,180.180] INFO [140704721305856] - Waiting for application shutdown.
+[2024-07-17 23:03:29,180.180] INFO [140704721305856] - Application shutdown complete.
+[2024-07-17 23:03:29,180.180] INFO [140704721305856] - Application shutdown complete.
+[2024-07-17 23:03:29,180.180] INFO [140704721305856] - Finished server process [71741]
+[2024-07-17 23:03:29,180.180] INFO [140704721305856] - Finished server process [71740]
+[2024-07-17 23:03:29,342.342] INFO [140704721305856] - Received SIGINT, exiting.
+[2024-07-17 23:03:29,343.343] INFO [140704721305856] - Terminated child process [71740]
+[2024-07-17 23:03:29,343.343] INFO [140704721305856] - Terminated child process [71741]
+[2024-07-17 23:03:29,343.343] INFO [140704721305856] - Waiting for child process [71740]
+[2024-07-17 23:03:29,413.413] INFO [140704721305856] - Waiting for child process [71741]
+[2024-07-17 23:03:29,414.414] INFO [140704721305856] - Stopping parent process [71738]

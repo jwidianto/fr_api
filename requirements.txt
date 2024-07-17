@@ -1,0 +1,13 @@
+deepface
+fastapi
+numpy
+opencv_contrib_python
+opencv_python
+opencv_python_headless
+Pillow
+pydantic
+PyMySQL
+SQLAlchemy
+starlette
+tf-keras
+uuid7
