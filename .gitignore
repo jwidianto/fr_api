@@ -1,2 +1,4 @@
 __pycache__
 fr_apienv
+.DS_Store
+*/.DS_Store
