@@ -6,7 +6,8 @@ from sqlalchemy.orm import create_session
 import pymysql
 
 # Create an engine to connect to your MySQL database
-DBENGINE = create_engine("mysql+pymysql://root:raspberry@localhost:3306/FR_API", pool_recycle=3600)
+#DBENGINE = create_engine("mysql+pymysql://root:aelhFYMqOHHcXdXbtopUNmGsnrGqxZty@roundhouse.proxy.rlwy.net:26410/railway", pool_recycle=3600)
+DBENGINE = create_engine("mysql+pymysql://root@localhost:3306/FR_API", pool_recycle=3600)
 
 # Establish a connection
 DBCONN = DBENGINE.connect()

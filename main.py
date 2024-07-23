@@ -27,7 +27,7 @@ app = FastAPI()
 
 FACEPATH = "KnownFaces"
 # Create an engine to connect to your MySQL database
-
+#DBENGINE = create_engine("mysql+pymysql://root:aelhFYMqOHHcXdXbtopUNmGsnrGqxZty@roundhouse.proxy.rlwy.net:26410/railway", pool_recycle=3600)
 DBENGINE = create_engine("mysql+pymysql://root@localhost:3306/FR_API", pool_recycle=3600)
 
 # Establish a connection
@@ -47,6 +47,7 @@ class EnrollFile(BaseModel):
 
 class AbsensiModel(BaseModel): 
     uuid : str
+    nik : str
     in_out: str
     mac_address: str
 
@@ -262,12 +263,13 @@ async def verify64(jsonFile : VerifyFile):
 async def absensi64(json : AbsensiModel):
     try:
         uuid = json.uuid
+        nik = json.nik
         in_out = json.in_out
         mac_address = json.mac_address
         ts = '' 
 
         with DBSESSION as connection :
-            connection.execute(text("""INSERT INTO absensi (`uuid`, `in_out`, `mac_address`) VALUES ('"""+str(uuid)+"""', '"""+str(in_out)+"""', '"""+str(mac_address)+"""')"""))
+            connection.execute(text("""INSERT INTO absensi (`uuid`, `nik`, `in_out`, `mac_address`) VALUES ('"""+str(uuid)+"""', '"""+str(nik)+"""', '"""+str(in_out)+"""', '"""+str(mac_address)+"""')"""))
             connection.commit()
             connection.close()
 
@@ -288,3 +290,20 @@ async def absensi64(json : AbsensiModel):
     except Exception as e:
         return JSONResponse(status_code=500, content={"error": f"Failed to process image: {e}"})         
     return False
+
+@app.post("/get_port")
+def get_port():
+    port = []
+    result = DBSESSION.execute(text("""SELECT * FROM DEVICESS"""))
+    DBSESSION.close()
+
+    for row in result:
+        port.append({
+            "NAME":row[0],
+            "PORT":row[1]
+        })
+
+    return {
+        "success" : True,
+        "port" : port
+    }
